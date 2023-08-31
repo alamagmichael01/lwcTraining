@@ -1,4 +1,4 @@
-- name: PMD Source Code Analyzer Action
+- name: 'PMD Source Code Analyzer Action'
   # You may pin to the exact commit or the version.
   # uses: sfdx-actions/setup-pmd@352f73e383f80f85bf312b8e4c84fce4fff3ebdb
   uses: sfdx-actions/setup-pmd@v1
